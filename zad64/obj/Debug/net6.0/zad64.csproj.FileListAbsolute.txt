@@ -1,0 +1,15 @@
+/Users/larisayakovleva/Recursion/zad64/bin/Debug/net6.0/zad64
+/Users/larisayakovleva/Recursion/zad64/bin/Debug/net6.0/zad64.deps.json
+/Users/larisayakovleva/Recursion/zad64/bin/Debug/net6.0/zad64.runtimeconfig.json
+/Users/larisayakovleva/Recursion/zad64/bin/Debug/net6.0/zad64.dll
+/Users/larisayakovleva/Recursion/zad64/bin/Debug/net6.0/zad64.pdb
+/Users/larisayakovleva/Recursion/zad64/obj/Debug/net6.0/zad64.csproj.AssemblyReference.cache
+/Users/larisayakovleva/Recursion/zad64/obj/Debug/net6.0/zad64.GeneratedMSBuildEditorConfig.editorconfig
+/Users/larisayakovleva/Recursion/zad64/obj/Debug/net6.0/zad64.AssemblyInfoInputs.cache
+/Users/larisayakovleva/Recursion/zad64/obj/Debug/net6.0/zad64.AssemblyInfo.cs
+/Users/larisayakovleva/Recursion/zad64/obj/Debug/net6.0/zad64.csproj.CoreCompileInputs.cache
+/Users/larisayakovleva/Recursion/zad64/obj/Debug/net6.0/zad64.dll
+/Users/larisayakovleva/Recursion/zad64/obj/Debug/net6.0/refint/zad64.dll
+/Users/larisayakovleva/Recursion/zad64/obj/Debug/net6.0/zad64.pdb
+/Users/larisayakovleva/Recursion/zad64/obj/Debug/net6.0/zad64.genruntimeconfig.cache
+/Users/larisayakovleva/Recursion/zad64/obj/Debug/net6.0/ref/zad64.dll
